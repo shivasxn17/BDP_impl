@@ -143,4 +143,4 @@ public class PaperCitationDriver {
 		
 		System.exit(job2.waitForCompletion(true) ? 0 : 1);
 	}
-}w
+}
