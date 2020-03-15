@@ -1,6 +1,6 @@
 Taken Sample of 50 files - europar_en_sample.zip
 
-Dataset location - /proj_2_ds_sample_files/proj_2_dataset_sample/
+Dataset location - http://www.statmt.org/europarl/
 
 Put dataset using these HDFS commands:
 
